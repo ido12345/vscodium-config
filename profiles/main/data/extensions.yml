@@ -38,5 +38,7 @@ enabled:
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: xaver.clang-format
     uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
+  - id: ziglang.vscode-zig
+    uuid: 9f528315-746c-44d9-97ba-d4d505cca308
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

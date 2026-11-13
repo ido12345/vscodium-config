@@ -93,4 +93,5 @@
     "terminal.integrated.smoothScrolling": true,
     "workbench.list.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
+    "syncSettings.openOutputOnActivity": true,
 }
