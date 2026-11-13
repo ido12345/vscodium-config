@@ -1,0 +1,96 @@
+{
+    "cmake.showOptionsMovedNotification": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "hexeditor.columnWidth": 16,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside",
+    "python.defaultInterpreterPath": "c:\\Users\\idosw\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "editor.maxTokenizationLineLength": 200000,
+    // "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[c]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+        // "editor.formatOnSave": true
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+        // "editor.formatOnSave": true
+    },
+    "clang-format.executable": "clang-format",
+    "clang-format.style": "file",
+    "clang-format.fallbackStyle": "LLVM",
+    "[javascript]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "path": "C:\\Program Files (x86)\\PowerShell\\7\\pwsh.exe"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash",
+            "icon": "terminal-git-bash"
+        }
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.disableAIFeatures": true,
+    "terminal.integrated.initialHint": false,
+    "files.associations": {
+        "*.cu": "cuda-cpp",
+        "*.cuh": "cuda-cpp",
+        ".clangd": "yaml",
+    },
+    "editor.wordWrap": "on",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "clangd.arguments": [
+        "--header-insertion=never",
+    ],
+    "clangd.fallbackFlags": [
+        "-ferror-limit=0"
+    ],
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.maxComputationTime": 0,
+    "workbench.colorTheme": "Dark Modern",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Hack, monospace",
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "smooth",
+    "telemetry.feedback.enabled": false,
+    "workbench.startupEditor": "none",
+    "terminal.integrated.scrollback": 10000,
+    "clangd.path": "C:\\Program Files\\LLVM\\bin\\clangd.exe",
+    "clangd.checkUpdates": true,
+    "diffEditor.renderSideBySide": true,
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "ms-settings"
+    ],
+    "editor.minimap.showSlider": "always",
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+}

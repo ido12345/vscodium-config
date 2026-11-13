@@ -1,0 +1,542 @@
+jeanp413.open-remote-wsl: '{"remoteLocationHistory_v0":{"Ubuntu":["/mnt/c/Users/idosw/C
+  Projects/ML2/Master/examples/transformer/BPE","/mnt/c/Users/idosw/C
+  Projects/ML2/Master/examples/transformer/BPE/hash","/home/idosw/Programming/Michlala/OperatingSystems/Assignment2","/bin","/home/idosw/Programming/SecureProgramming/system_poc","/home/idosw","/home/idosw/Programming/Assignment2","/mnt/c/Users/idosw/Michlala/Operating
+  Systems/Assignment2"],"ubuntu":["/home/idosw/Programming/Michlala/OperatingSystems/Assignment2","/home/idosw/Programming/Assignment2"]}}'
+maziac.asm-code-lens: "{\"version\":\"2.6.11\",\"__hvs\":\"l\\u0014*So\",\"__et\":1390724882}"
+mechatroner.rainbow-csv: "{}"
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.python: "{\"VSCode.ABExp.FeatureData\":{\"features\":[\"config.github\
+  .copilot.nextEditSuggestions.enabled\",\"config.python.analysis.aiHoverSummar\
+  iescf\",\"config.python.locator\",\"config.python.useEnvironmentsExtension\",\
+  \"copilotchat.disableReplaceStringHealing\",\"copilotchat.hiddenModelBEditTool\
+  \",\"copilotchat.ruffDiagnosticsCookbook\",\"copilot_ci\",\"cveremediatoragen\
+  tenabled\",\"ideenablecopilotsemanticsearchcf\",\"livesharecontinuousaacf\",\
+  \"mindaroBinariesVersion\",\"test-ai-12cf\",\"workspace.embeddingIndex.automa\
+  ticReindexingDelay\"],\"assignmentContext\":\"vsliv368cf:30146710;binariesv61\
+  5:30325510;nativeloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;651\
+  8g693:31436602;aj953862:31281341;6abeh943:31336334;envsactivate1:31353494;aih\
+  oversummaries_f:31453033;3efgi100_wstrepl:31403338;56b7f661:31457055;ec5jj548\
+  :31422691;cp_cls_c_966_ss:31454199;cp_cls_t_1081:31454832;\",\"configs\":[{\"\
+  Id\":\"vscode\",\"Parameters\":{\"config.github.copilot.nextEditSuggestions.e\
+  nabled\":true,\"config.python.analysis.aiHoverSummaries\":false,\"config.pyth\
+  on.locator\":\"native\",\"config.python.useEnvironmentsExtension\":true,\"cop\
+  ilotchat.disableReplaceStringHealing\":true,\"copilotchat.hiddenModelBEditTool\
+  \":\"with_replace_string\",\"copilotchat.ruffDiagnosticsCookbook\":true,\"cop\
+  ilot_ci\":true,\"cveremediatoragentenabled\":true,\"ideenablecopilotsemantics\
+  earch\":false,\"livesharecontinuousaa\":false,\"mindaroBinariesVersion\":\"1.\
+  0.20210615.1\",\"test-ai-12\":false,\"workspace.embeddingIndex.automaticReind\
+  exingDelay\":100000000}}]},\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\ID\
+  OSW\\\\ONEDRIVE\\\\שולחן העבודה\\\\PYTHON
+  PROJECTS\":true,\"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\":[\"C:\\\
+  \\USERS\\\\IDOSW\\\\C_PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\",\"C:\\\\USERS\\\\IDO\
+  SW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT2\",\"C:\\\\USERS\\\\IDOSW\
+  \\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT\",\"C:\\\\USERS\\\\IDOSW\\\
+  \\PYTHON PROJECTS\\\\WHATSAPPSENDER\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\",\"C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\JACKO\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\\\\EXAMPLES\\\\TRANSFORMER\",\"C:\\\\USERS\\\\IDOSW\
+  \\\\MICHLALA\\\\INTROTOML\\\\ASSIGNMENT2\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\\\\EXAMPLES\\\\GRAPHED\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\C23\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\FOO\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\EXAMPLES\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\DEBUG\",\"C:\\\\US\
+  ERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\",\"C:\\\\USERS\\\\ID\
+  OSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE2\",\"C:\\\\U\
+  SERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE3\",\"C:\\\\U\
+  SERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\\\\STAGE3\",\"C:\\\\\
+  USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\",\"C:\\\\USERS\\\\I\
+  DOSW\\\\C PROJECTS\\\\ML2\\\\ADVANCED\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\MNIST\",\"C:\\\\USERS\\\\IDOSW\\\\ONEDRIVE\\\\\
+  שולחן העבודה\\\\MICHLALA\\\\ALGORITHMS\",\"C:\\\\USERS\\\\IDOSW\\\\C++
+  PROJECTS\\\\PYTORCH\\\\PYTORCH\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\SIMPLE\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\SOCKETS\",\
+  \"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\TEMPLATE\",\"C:\\\\USERS\\\
+  \\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\BEZIER\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJ\
+  ECTS\\\\DYNAMICSTRUCTURESUPDATED\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\DE\
+  LETE_ME\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\TESTASM\",\"C:\\\\USERS\\\\\
+  IDOSW\\\\C_PROJECTS\\\\BRAINFUCK\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WI\
+  NDOWS\\\\GRAPHICS\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\
+  \\PONG\",\"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\\GRAPH\",\
+  \"C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\GIMEL\",\"C:\\\\USERS\\\\IDOSW\\\\C_P\
+  ROJECTS\\\\LINEARALGEBRA\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\LINEARALGEBRA\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\\\\HASHMAPBENCHMARK\",\"C:\\\\USERS\\\\IDOSW\\\
+  \\C PROJECTS\\\\DYNAMICSTRUCTURES\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\MEMORY ALLOCATOR\",\"C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML\\\\MNIST\",\"C:\\\\USERS\\\\IDOSW\\\\ONEDRIVE\\\\שולחן
+  העבודה\\\\PYTHON
+  PROJECTS\"],\"isRemoteGlobalSettingCopiedKey\":true,\"SHELL_INTEGRATION_WORKI\
+  NG_KEY_powershell\":true,\"pylanceDefaultPromptMemento\":true,\"WORKSPACE_FOL\
+  DER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\ONEDRIVE\\\\שולחן
+  העבודה\\\\PYTHON PROJECTS\":\"c:\\\\Users\\\\idosw\\\\OneDrive\\\\שולחן
+  העבודה\\\\Python
+  Projects\\\\.venv\\\\Scripts\\\\python.exe\",\"autoSelectionInterpretersQueri\
+  edOnce\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML\\\\MNIST\":true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\
+  \\\\IDOSW\\\\C PROJECTS\\\\ML\\\\MNIST\":\"c:\\\\Users\\\\idosw\\\\C
+  Projects\\\\ML\\\\MNIST\\\\venv\\\\Scripts\\\\python.exe\",\"preferredGlobalP\
+  yInterpreter\":{\"id\":\"C:\\\\USERS\\\\IDOSW\\\\APPDATA\\\\ROAMING\\\\UV\\\\\
+  PYTHON\\\\CPYTHON-3.14.7-WINDOWS-X86_64-NONE\\\\PYTHON.EXE\",\"sysPrefix\":\"\
+  C:\\\\Users\\\\idosw\\\\AppData\\\\Roaming\\\\uv\\\\python\\\\cpython-3.14.7-\
+  windows-x86_64-none\",\"envType\":\"Global\",\"envName\":\"\",\"envPath\":\"\
+  \",\"path\":\"C:\\\\Users\\\\idosw\\\\AppData\\\\Roaming\\\\uv\\\\python\\\\c\
+  python-3.14.7-windows-x86_64-none\\\\python.exe\",\"architecture\":3,\"sysVer\
+  sion\":\"3.14.7 (main, Sep  1 2026, 14:17:30) [MSC v.1944 64 bit
+  (AMD64)]\",\"version\":{\"raw\":\"3.14.7\",\"major\":3,\"minor\":14,\"patch\"\
+  :7,\"build\":[],\"prerelease\":[\"final\",\"0\"]},\"companyDisplayName\":\"As\
+  tral\",\"displayName\":\"Python 3.14.7
+  64-bit\",\"detailedDisplayName\":\"Python 3.14.7
+  64-bit\"},\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\MEMORY
+  ALLOCATOR\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\U\
+  SERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\\\\HASHMAPBENCHMARK\":true,\"PYTHON_WAS_DISCOVE\
+  RY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\LINEARALGEBRA\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\C_PROJECTS\\\\LINEARALGEBRA\":true,\"PYTHON_WAS_DISCOVERY_TRIGGE\
+  RED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\GIMEL\":true,\"PYTHON_WAS_DISCOVERY\
+  _TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\\GRAPH\":t\
+  rue,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WI\
+  NDOWS\\\\MINE\\\\PONG\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\\
+  IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\GRAPHICS\":true,\"PYTHON_WAS_DISCOVERY_TRIG\
+  GERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\BRAINFUCK\":true,\"WORKSPACE_FOLD\
+  ER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\BRAINFUCK\":\"c:\\\
+  \\Users\\\\idosw\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\py\
+  thon.exe\",\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\
+  \\\\TESTASM\":true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\
+  \\C_PROJECTS\\\\TESTASM\":\"c:\\\\Users\\\\idosw\\\\AppData\\\\Local\\\\Progr\
+  ams\\\\Python\\\\Python313\\\\python.exe\",\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
+  \\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\DELETE_ME\":true,\"PYTHON_GLOBAL_STORAGE_\
+  KEYS\":[{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_P\
+  ROJECTS\\\\ML2\\\\GITHUB\\\\ML2\",\"defaultValue\":false},{\"key\":\"WORKSPAC\
+  E_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\ML2\\\\GITHUB\
+  \\\\ML2\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\\
+  MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT2\",\"defaultValue\":false},{\"k\
+  ey\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\MICHLALA\\\\\
+  PROGRAMMINGWITHAI\\\\FINALPROJECT2\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGER\
+  ED_C:\\\\USERS\\\\IDOSW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT\",\"\
+  defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\
+  \\\\IDOSW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT\"},{\"key\":\"PYTH\
+  ON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\WHATSAPPSENDER\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOL\
+  DER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\WHATSAPPSENDER\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\",\"defaultValue\":false},{\"key\":\"WORKSPA\
+  CE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED\
+  _C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\JACKO\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTER\
+  PRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\JACKO\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\
+  \\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\\\\EXAMPLES\\\\TRANSFORMER\",\"defaultValue\":false\
+  },{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\\\\EXAMPLES\\\\TRANSFORMER\"},{\"key\":\"PYTHON_WAS\
+  _DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\MICHLALA\\\\INTROTOML\\\\ASSIGNM\
+  ENT2\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\
+  \\\\USERS\\\\IDOSW\\\\MICHLALA\\\\INTROTOML\\\\ASSIGNMENT2\"},{\"key\":\"PYTH\
+  ON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLD\
+  ER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\\
+  USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\\\\EXAMPLES\\\\GRAPHED\",\"defaultValue\":false},{\
+  \"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\\\\EXAMPLES\\\\GRAPHED\"},{\"key\":\"PYTHON_WAS_DIS\
+  COVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\",\"defaultValue\":false},{\"key\":\"SHELL_INTEGRAT\
+  ION_WORKING_KEY_powershellCore\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PAT\
+  H_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\\
+  USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\C23\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPR\
+  ETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\C23\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\I\
+  DOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\FOO\",\"defaultValue\":false},{\"key\":\"WORKS\
+  PACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\FOO\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGER\
+  ED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\EXAMPLES\",\"defaultValue\":false},{\"key\":\"\
+  WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\EXAMPLES\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TR\
+  IGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\DEBUG\",\"defaultV\
+  alue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDO\
+  SW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\DEBUG\"},{\"key\":\
+  \"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\",\"defaultValue\":fa\
+  lse},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\"},{\"key\":\"PYTHON_\
+  WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE2\",\"default\
+  Value\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\ID\
+  OSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE2\"},{\"key\":\
+  \"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE3\",\"default\
+  Value\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\ID\
+  OSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE3\"},{\"key\":\
+  \"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\\\\STAGE3\",\"defaul\
+  tValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\I\
+  DOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\\\\STAGE3\"},{\"key\
+  \":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\",\"defaultValue\":f\
+  alse},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\"},{\"key\":\"PYTHON\
+  _WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FO\
+  LDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\MNIST\",\"defaultValue\":false},{\"key\":\"WOR\
+  KSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\MNIST\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGG\
+  ERED_C:\\\\USERS\\\\IDOSW\\\\ONEDRIVE\\\\שולחן
+  העבודה\\\\MICHLALA\\\\ALGORITHMS\",\"defaultValue\":false},{\"key\":\"WORKSPA\
+  CE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\ONEDRIVE\\\\שולחן
+  העבודה\\\\MICHLALA\\\\ALGORITHMS\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED\
+  _C:\\\\USERS\\\\IDOSW\\\\C++
+  PROJECTS\\\\PYTORCH\\\\PYTORCH\",\"defaultValue\":false},{\"key\":\"WORKSPACE\
+  _FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C++
+  PROJECTS\\\\PYTORCH\\\\PYTORCH\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
+  \\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPR\
+  ETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\I\
+  DOSW\\\\C
+  PROJECTS\\\\ML2\\\\SIMPLE\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLD\
+  ER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\SIMPLE\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\\
+  USERS\\\\IDOSW\\\\C_PROJECTS\\\\SOCKETS\",\"defaultValue\":false},{\"key\":\"\
+  WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\SOCKE\
+  TS\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PRO\
+  JECTS\\\\WINDOWS\\\\TEMPLATE\",\"defaultValue\":false},{\"key\":\"WORKSPACE_F\
+  OLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\TEMPL\
+  ATE\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PR\
+  OJECTS\\\\WINDOWS\\\\BEZIER\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FO\
+  LDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\BEZIER\
+  \"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJE\
+  CTS\\\\DYNAMICSTRUCTURESUPDATED\",\"defaultValue\":false},{\"key\":\"WORKSPAC\
+  E_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\DYNAMICSTRUCT\
+  URESUPDATED\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\
+  \\\\C_PROJECTS\\\\DELETE_ME\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FO\
+  LDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\DELETE_ME\"},{\"k\
+  ey\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\T\
+  ESTASM\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH\
+  _C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\TESTASM\"},{\"key\":\"PYTHON_WAS_DISCO\
+  VERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\BRAINFUCK\",\"defaultVal\
+  ue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\
+  \\\\C_PROJECTS\\\\BRAINFUCK\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\GRAPHICS\",\"defaultValue\":fals\
+  e},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PRO\
+  JECTS\\\\WINDOWS\\\\GRAPHICS\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\\PONG\",\"defaultValue\":\
+  false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C\
+  _PROJECTS\\\\WINDOWS\\\\MINE\\\\PONG\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGG\
+  ERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\\GRAPH\",\"defau\
+  ltValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\\
+  IDOSW\\\\C_PROJECTS\\\\WINDOWS\\\\MINE\\\\GRAPH\"},{\"key\":\"PYTHON_WAS_DISC\
+  OVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\GIMEL\",\"defaultValue\
+  \":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\
+  \\C_PROJECTS\\\\GIMEL\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\C_PROJECTS\\\\LINEARALGEBRA\",\"defaultValue\":false},{\"key\":\
+  \"SHELL_INTEGRATION_WORKING_KEY_commandPrompt\"},{\"key\":\"WORKSPACE_FOLDER_\
+  INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\LINEARALGEBRA\"},{\"key\
+  \":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\LINEARALGEBRA\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLD\
+  ER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\LINEARALGEBRA\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\\
+  USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\\\\HASHMAPBENCHMARK\",\"defaultValue\":false},{\
+  \"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\\\\HASHMAPBENCHMARK\"},{\"key\":\"autoSelection\
+  InterpretersQueriedOnce\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\US\
+  ERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\",\"defaultValue\":false},{\"key\":\"PYTHON_EXT\
+  ENSION_GLOBAL_STORAGE_KEYS\",\"defaultValue\":[]},{\"key\":\"SHELL_INTEGRATIO\
+  N_WORKING_KEY_powershell\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\
+  \\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\DYNAMICSTRUCTURES\"},{\"key\":\"preferredGlobalPyInterpreter\"},{\
+  \"key\":\"PYTHON_ENV_INFO_CACHEv2\",\"defaultValue\":[]},{\"key\":\"VSCode.AB\
+  Exp.FeatureData\",\"defaultValue\":{\"features\":[]}},{\"key\":\"isRemoteGlob\
+  alSettingCopiedKey\",\"defaultValue\":false},{\"key\":\"remoteWorkspaceFolder\
+  KeysForWhichTheCopyIsDone_Key\",\"defaultValue\":[]}],\"PYTHON_WAS_DISCOVERY_\
+  TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\DYNAMICSTRUCTURESUPDATED\":tr\
+  ue,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\WIN\
+  DOWS\\\\BEZIER\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\
+  \\C_PROJECTS\\\\WINDOWS\\\\TEMPLATE\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
+  \\\\USERS\\\\IDOSW\\\\C_PROJECTS\\\\SOCKETS\":true,\"PYTHON_WAS_DISCOVERY_TRI\
+  GGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\SIMPLE\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\
+  \\C++
+  PROJECTS\\\\PYTORCH\\\\PYTORCH\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\\
+  USERS\\\\IDOSW\\\\ONEDRIVE\\\\שולחן
+  העבודה\\\\MICHLALA\\\\ALGORITHMS\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\MNIST\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_\
+  C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USE\
+  RS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\":true,\"PYTHON_WAS_\
+  DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\SWITCH_TO_GEMM_BENCHMARKS\\\\STAGE3\":true,\"P\
+  YTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE3\":true,\"PY\
+  THON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\STAGE2\":true,\"PY\
+  THON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\":true,\"PYTHON_WAS_D\
+  ISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\OPTIMIZATIONS_BENCHMARKS\\\\DEBUG\":true,\"PYT\
+  HON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\EXAMPLES\":true,\"PYTHON_WAS_DISCOVERY_TRIGGER\
+  ED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\ADVANCED\\\\FOO\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
+  \\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\C23\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\
+  \\C
+  PROJECTS\\\\ML2\\\\EXPERT\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\EXPERT\\\\EXAMPLES\\\\GRAPHED\":true,\"PYTHON_WAS_DISCOVER\
+  Y_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\MICHLALA\\\\INTROTOML\\\\ASSIGNMENT2\":true,\"PYTHON_WAS_DISCOVE\
+  RY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\MASTER\\\\EXAMPLES\\\\TRANSFORMER\":true,\"PYTHON_ENV_INFO\
+  _CACHEv2\":[{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"exec\
+  utable\":{\"filename\":\"c:\\\\Users\\\\idosw\\\\AppData\\\\Local\\\\Programs\
+  \\\\Python\\\\Python313\\\\python.exe\",\"sysPrefix\":\"c:\\\\Users\\\\idosw\\\
+  \\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\",\"ctime\":17944878040\
+  17,\"mtime\":1792587976000},\"display\":\"Python 3.13.17
+  64-bit\",\"version\":{\"major\":3,\"minor\":13,\"micro\":17,\"release\":{\"le\
+  vel\":\"final\",\"serial\":0},\"sysVersion\":\"3.13.17 (tags/v3.13.17:64e080d,
+  Oct 21 2026, 14:08:53) [MSC v.1944 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"C:\\\
+  \\USERS\\\\IDOSW\\\\APPDATA\\\\LOCAL\\\\PROGRAMS\\\\PYTHON\\\\PYTHON313\\\\PY\
+  THON.EXE\",\"detailedDisplayName\":\"Python 3.13.17
+  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-system\",\"execu\
+  table\":{\"filename\":\"C:\\\\msys64\\\\ucrt64\\\\bin\\\\python.exe\",\"sysPr\
+  efix\":\"C:\\\\msys64\\\\ucrt64\",\"ctime\":1787233714811,\"mtime\":178622371\
+  9000},\"display\":\"Python 3.14.7 64-bit
+  (system)\",\"version\":{\"major\":3,\"minor\":14,\"micro\":7,\"release\":{\"l\
+  evel\":\"final\",\"serial\":0},\"sysVersion\":\"3.14.7 (main, Aug  8 2026,
+  21:15:19)  [MINGW GCC UCRT 16.2.0 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+  var\"],\"id\":\"C:\\\\MSYS64\\\\UCRT64\\\\BIN\\\\PYTHON.EXE\",\"detailedDispl\
+  ayName\":\"Python 3.14.7 64-bit
+  (system)\"},{\"name\":\".venv\",\"location\":\"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\Jacko\\\\.venv\",\"kind\":\"virt-venv\",\"executable\":{\"filename\
+  \":\"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\Jacko\\\\.venv\\\\Scripts\\\\python.exe\",\"sysPrefix\":\"c:\\\\U\
+  sers\\\\idosw\\\\Python
+  Projects\\\\Jacko\\\\.venv\",\"ctime\":1788548862642,\"mtime\":1788548862642},\
+  \"searchLocation\":\"file:///c%3A/Users/idosw/Python%20Projects/Jacko\",\"dis\
+  play\":\"Python 3.12.10
+  ('.venv')\",\"version\":{\"major\":3,\"minor\":12,\"micro\":10,\"release\":{\
+  \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.10
+  (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Vir\
+  tual\",\"id\":\"C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\JACKO\\\\.VENV\\\\SCRIPTS\\\\PYTHON.EXE\",\"detailedDisplayName\":\
+  \"Python 3.12.10 ('.venv':
+  venv)\"},{\"name\":\".venv\",\"location\":\"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\WhatsappSender\\\\.venv\",\"kind\":\"virt-venv\",\"executable\":{\
+  \"filename\":\"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\WhatsappSender\\\\.venv\\\\Scripts\\\\python.exe\",\"sysPrefix\":\
+  \"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\WhatsappSender\\\\.venv\",\"ctime\":1748076389748,\"mtime\":17282\
+  89646000},\"searchLocation\":\"file:///c%3A/Users/idosw/Python%20Projects/Wha\
+  tsappSender\",\"display\":\"Python 3.13.15
+  ('.venv')\",\"version\":{\"major\":3,\"minor\":13,\"micro\":15,\"release\":{\
+  \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.13.15
+  (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Vir\
+  tual\",\"id\":\"C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\WHATSAPPSENDER\\\\.VENV\\\\SCRIPTS\\\\PYTHON.EXE\",\"detailedDisp\
+  layName\":\"Python 3.13.15 ('.venv':
+  venv)\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"executa\
+  ble\":{\"filename\":\"C:\\\\Users\\\\idosw\\\\AppData\\\\Roaming\\\\uv\\\\pyt\
+  hon\\\\cpython-3.14.7-windows-x86_64-none\\\\python.exe\",\"sysPrefix\":\"C:\\\
+  \\Users\\\\idosw\\\\AppData\\\\Roaming\\\\uv\\\\python\\\\cpython-3.14.7-wind\
+  ows-x86_64-none\",\"ctime\":1788987903368,\"mtime\":1788987903368},\"display\
+  \":\"Python 3.14.7
+  64-bit\",\"version\":{\"major\":3,\"minor\":14,\"micro\":7,\"release\":{\"lev\
+  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.14.7 (main, Sep  1 2026,
+  14:17:30) [MSC v.1944 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"Astral\",\"defaultDisplayName\":\
+  \"CPython 3.14.7 (64-bit)\"},\"source\":[\"windows
+  registry\"],\"id\":\"C:\\\\USERS\\\\IDOSW\\\\APPDATA\\\\ROAMING\\\\UV\\\\PYTH\
+  ON\\\\CPYTHON-3.14.7-WINDOWS-X86_64-NONE\\\\PYTHON.EXE\",\"detailedDisplayName\
+  \":\"Python 3.14.7
+  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
+  able\":{\"filename\":\"C:\\\\Users\\\\idosw\\\\AppData\\\\Local\\\\Programs\\\
+  \\Python\\\\Python312\\\\python.exe\",\"sysPrefix\":\"C:\\\\Users\\\\idosw\\\
+  \\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\",\"ctime\":17885488284\
+  45,\"mtime\":1744106256000},\"display\":\"Python 3.12.10
+  64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":10,\"release\":{\"le\
+  vel\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.10 (tags/v3.12.10:0cc8128,
+  Apr  8 2025, 12:21:36) [MSC v.1943 64 bit
+  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"PythonCore\",\"defaultDisplayName\
+  \":\"Python 3.12 (64-bit)\"},\"source\":[\"windows registry\",\"path env
+  var\"],\"id\":\"C:\\\\USERS\\\\IDOSW\\\\APPDATA\\\\LOCAL\\\\PROGRAMS\\\\PYTHON\
+  \\\\PYTHON312\\\\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.12.10
+  64-bit\"}],\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\JACKO\":true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\I\
+  DOSW\\\\PYTHON PROJECTS\\\\JACKO\":\"c:\\\\Users\\\\idosw\\\\Python
+  Projects\\\\Jacko\\\\.venv\\\\Scripts\\\\python.exe\",\"PYTHON_WAS_DISCOVERY_\
+  TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\C
+  PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\
+  \\USERS\\\\IDOSW\\\\PYTHON
+  PROJECTS\\\\WHATSAPPSENDER\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\
+  \\\\IDOSW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\\FINALPROJECT\":true,\"WORKSPACE\
+  _FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\IDOSW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\
+  \\\\FINALPROJECT\":\"C:\\\\msys64\\\\ucrt64\\\\bin\\\\python.exe\",\"PYTHON_W\
+  AS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\\MICHLALA\\\\PROGRAMMINGWITHAI\\\
+  \\FINALPROJECT2\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\IDOSW\\\
+  \\C_PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\":true}"
+ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["config.github.copilot.nextEditSuggestions.enabled","config.python.analysis.aiHoverSummariescf","config.python.locator","config.python.useEnvironmentsExtension","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotchat.ruffDiagnosticsCookbook","copilot_ci","cveremediatoragentenabled","ideenablecopilotsemanticsearchcf","livesharecontinuousaacf","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;nativeloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;6518g693:31436602;aj953862:31281341;6abeh943:31336334;envsactivate1:31353494;aihoversummaries_f:31453033;3efgi100_wstrepl:31403338;56b7f661:31457055;ec5jj548:31422691;cp_cls_c_966_ss:31454199;cp_cls_t_1081:31454832;","configs":[{"Id":"vscode","Parameters":{"config.github.copilot.nextEditSuggestions.enabled":true,"config.python.analysis.aiHoverSummaries":false,"config.python.locator":"native","config.python.useEnvironmentsExtension":true,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotchat.ruffDiagnosticsCookbook":true,"copilot_ci":true,"cveremediatoragentenabled":true,"ideenablecopilotsemanticsearch":false,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+ms-python.vscode-python-envs: '{"globalSettingsMigration.systemEnvManagerRemoved":true,"python-envs:terminal:ENV_FILE_NOTIFICATION_DONT_SHOW":true}'
+ms-toolsai.jupyter: '{"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/idosw/AppData/Roaming/jupyter/kernels","DATASCIENCE.LAST_SAVED_CELL_LANGUAGE":"python","7830483ef2c7c1d47569f30b7b75a77f2231d8a4066314dfc142be479eb128cb#ipykernel":true}'
+vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.12.3"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":false,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.python","pinned":false,"visible":false,"order":8},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.voiceTranscriptsContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{},{},{},{\"when\":\"npm:showScriptExplorer\"},{\"when\
+  \":\"clangd.typeHierarchyVisible\"},{\"when\":\"clangd.memoryUsage.hasData\"}\
+  ,{\"when\":\"clangd.ast.hasData\"},{\"when\":\"config.asm-code-lens.hexCalcul\
+  ator.showInExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\
+  \":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}\
+  ]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view\
+  -icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
+  scm.historyProviderCount !=
+  '0'\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-ic\
+  on\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-editor-browser' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-editor-browser' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"config.asm-c\
+  ode-lens.hexCalculator.showInDebug\"},{\"when\":\"debugType ==
+  'lldb'\"},{\"when\":\"debugType ==
+  'lldb'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\"ext\
+  ensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[]}\
+  ,{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-vi\
+  ew-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{\"when\":\"true\"}]},{\"id\":\"work\
+  bench.view.chat.sessions\",\"name\":\"Agent
+  Sessions\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.test\",\"t\
+  hemeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":tru\
+  e,\"views\":[{\"when\":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
+  ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
+  erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
+  \"}]},{\"id\":\"workbench.view.extension.github-copilot-completions-debugger-\
+  panel\",\"name\":\"Debugger\",\"isBuiltin\":false},{\"id\":\"workbench.view.e\
+  xtension.hexExplorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PA\
+  TH%%/ms-vscode.hexeditor-1.11.1/panel-icon.svg\",\"scheme\":\"file\"},\"name\
+  \":\"Hex
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"hexEditor:showSidebarInsp\
+  ector\"}]},{\"id\":\"workbench.view.extension.python\",\"iconUrl\":{\"$mid\":\
+  1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-python.vscode-python-envs-1.42.0-univ\
+  ersal/files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Python\",\"isBuiltin\"\
+  :false,\"views\":[{\"when\":\"config.python.useEnvironmentsExtension &&
+  python-envs.workspaceHasPython\"},{\"when\":\"config.python.useEnvironmentsEx\
+  tension &&
+  python-envs.workspaceHasPython\"}]},{\"id\":\"workbench.view.extension.jupyter\
+  \",\"themeIcon\":{\"id\":\"notebook\"},\"name\":\"Jupyter\",\"isBuiltin\":fal\
+  se,\"views\":[]},{\"id\":\"workbench.view.voiceTranscriptsContainer\",\"theme\
+  Icon\":{\"id\":\"voice-transcripts-view-icon\"},\"name\":\"Voice
+  Transcripts\",\"isBuiltin\":true,\"views\":[{\"when\":\"voiceTranscripts.show\
+  View\"}]},{\"id\":\"workbench.panel.chatSidebar\",\"name\":\"Chat (Old
+  Location)\",\"isBuiltin\":false},{\"id\":\"userDataProfiles\",\"name\":\"Prof\
+  iles\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"name\":\"Settin\
+  gs
+  Sync\",\"isBuiltin\":false},{\"id\":\"workbench.view.editSessions\",\"name\":\
+  \"Cloud Changes\",\"isBuiltin\":false}]"
+workbench.activity.showAccounts: "true"
+workbench.activityBar.location: default
+workbench.auxiliaryBar.empty: "false"
+workbench.auxiliaryBar.lastNonMaximizedSize: "300"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.output","pinned":false,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":false,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.viewContainer.agentSessions","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{},{}]},{"id":"workbench.viewContainer.agentSessions","name":"Agents","isBuiltin":false},{"id":"workbench.panel.chatEditing","name":"Copilot
+  Edits","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"chat-view-icon"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
+  && !chatAccountPolicyGateActive || chatPanelParticipantRegistered &&
+  !chatAccountPolicyGateActive || !chatAccountPolicyGateActive &&
+  !chatSetupDisabledInWorkspace && !chatSetupHidden &&
+  !config.chat.disableAIFeatures"},{"when":"managedSettingsUpdateRequired"}]}]'
+workbench.auxiliaryBar.size: "1370"
+workbench.chat.hideMovedChatWelcomeView: "true"
+workbench.chat.hideWelcomeView: "true"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["csv",true],["javascript",true],["markdown",true],["lldb.disassembly",true],["cuda-cpp",true],["plaintext",true],["jsonc",true],["cpp",true],["ignore",true],["makefile",true],["c",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"solutionExplorer","isHidden":false},{"id":"asm-code-lens.calcview-explorer","isHidden":false},{"id":"memory-view.memoryView","isHidden":false},{"id":"rtos-views.rtos","isHidden":false},{"id":"pokemonView","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"claudeVSCodeSidebar","isHidden":false},{"id":"claudeVSCodeSessionsList","isHidden":false}]'
+workbench.grid.size: '{"height":768,"width":1024}'
+workbench.newDefaultThemeNotification: "true"
+workbench.panel.alignment: center
+workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false,"order":0},{"id":"terminal","isHidden":false,"order":1}]'
+workbench.panel.chatEditing.hidden: '[{"id":"workbench.panel.chat.view.edits","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "431"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false,"order":2},{"id":"terminal","isHidden":false,"order":0},{"id":"workbench.panel.repl.view","isHidden":true,"order":1}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false,"order":3},{"id":"terminal","isHidden":false,"order":0},{"id":"workbench.panel.repl.view","isHidden":true,"order":1},{"id":"workbench.panel.markers.view","isHidden":false,"order":2}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":false,"visible":false,"order":5},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
+  &&
+  jupyter:showTagsExplorer"}]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false,"order":1},{"id":"terminal","isHidden":false,"order":0}]'
+workbench.panel.size: "570"
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":false},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false}]'
+workbench.sideBar.size: "455"
+workbench.statusbar.hidden: '["status.workspaceTrust.1707564432218","status.workspaceTrust.e7e91ef7e818dcee293e490bf360a6fd","GitHub.copilot.status","chat.statusBarEntry","status.host","status.scm.0","status.scm.1","status.problems","status.editor.indentation","status.editor.eol","status.languageStatus","status.notifications"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.chat.sessions.state.hidden: '[{"id":"workbench.view.chat.sessions.local","isHidden":false},{"id":"workbench.view.chat.sessions.gettingStarted","isHidden":false},{"id":"workbench.view.chat.sessions.copilot-cloud-agent","isHidden":false},{"id":"codex-placeholder","isHidden":false},{"id":"copilot-agents-placeholder","isHidden":false},{"id":"workbench.view.chat.sessions.copilotcli","isHidden":false}]'
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"CppSshTargetsView","isHidden":false},{"id":"lldb.loadedModules","isHidden":false},{"id":"lldb.excludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"cortex-debug.liveWatch","isHidden":false},{"id":"mcu-debug.peripheral-viewer.svd","isHidden":false},{"id":"asm-code-lens.calcview-debug","isHidden":false}]'
+workbench.view.extension.claude-sessions-sidebar.state.hidden: '[{"id":"claudeVSCodeSessionsList","isHidden":false}]'
+workbench.view.extension.claude-sidebar-secondary.state.hidden: '[{"id":"claudeVSCodeSidebarSecondary","isHidden":false}]'
+workbench.view.extension.cmake-view.state.hidden: '[{"id":"cmake.projectStatus","isHidden":false},{"id":"cmake.outline","isHidden":false},{"id":"cmake.pinnedCommands","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false},{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.makefile__viewContainer.state.hidden: '[{"id":"makefile.outline","isHidden":false}]'
+workbench.view.extension.memory-view.state.hidden: '[{"id":"memory-view.memoryView","isHidden":false}]'
+workbench.view.extension.python.state.hidden: '[{"id":"python-projects","isHidden":false},{"id":"env-managers","isHidden":false}]'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false},{"id":"CppReferencesView","isHidden":false}]'
+workbench.view.extension.rtos-views.state.hidden: '[{"id":"rtos-views.rtos","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false},{"id":"workbench.views.agentPlugins.installed","isHidden":false},{"id":"workbench.views.agentPlugins.default.marketplace","isHidden":true},{"id":"workbench.views.extensions.restartRequired","isHidden":false},{"id":"workbench.views.agentPlugins.marketplace","isHidden":false},{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"targetsWsl","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"wslTargets","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "19"
+workbench.views.extensions.local.installed.size: "18"
+workbench.views.extensions.remote.installed.size: "2"
+workbench.welcomePage.hiddenCategories: '["ms-python.python#pythonWelcome","ms-vscode-remote.remote-wsl#wslWalkthrough"]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-vscode.cpptools#cppWelcome",{"firstSeen":1707564562479,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["ms-dotnettools.csdevkit#csdevkit.gettingStarted",{"firstSeen":1712324506266,"stepIDs":["csdevkit.signInStep","csdevkit.setupEnvironmentStep","csdevkit.openWorkspaceStep","csdevkit.createNewProjectStep","csdevkit.launchDebugAndTestStep","csdevkit.learnMoreStep"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1731140085574,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1731140085574,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1746375392851,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1771353219228,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1787230380898,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.2.1"}'
