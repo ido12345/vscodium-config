@@ -413,7 +413,7 @@ ms-python.python: "{\"VSCode.ABExp.FeatureData\":{\"features\":[\"config.github\
   \\C_PROJECTS\\\\ML2\\\\GITHUB\\\\ML2\":true}"
 ms-python.vscode-python-envs: '{"globalSettingsMigration.systemEnvManagerRemoved":true,"python-envs:terminal:ENV_FILE_NOTIFICATION_DONT_SHOW":true}'
 vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.12.3"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":false,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.python","pinned":false,"visible":false,"order":8},{"id":"workbench.view.voiceTranscriptsContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":false,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.python","pinned":false,"visible":false,"order":8},{"id":"workbench.view.voiceTranscriptsContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{},{\"when\":\"npm:showScriptExplorer\"},{\"when\
@@ -445,41 +445,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   ode-lens.hexCalculator.showInDebug\"},{\"when\":\"debugType ==
   'lldb'\"},{\"when\":\"debugType ==
   'lldb'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\"ext\
-  ensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[{\
-  \"when\":\"defaultExtensionViews && extensionsGalleryStatus == 'accessDenied'
-  || defaultExtensionViews && extensionsGalleryStatus == 'requiresSignIn' ||
-  searchMarketplaceExtensions && extensionsGalleryStatus == 'accessDenied' ||
-  searchMarketplaceExtensions && extensionsGalleryStatus ==
-  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
-  tensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledMcpServers && !chatSetupDisabledInWorkspace && !chatSetupHidden &&
-  !config.chat.disableAIFeatures\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledAgentPlugins && !chatSetupDisabledInWorkspace &&
-  !chatSetupHidden\"},{\"when\":\"hasGallery &&
-  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"sea\
-  rchRestartRequiredExtensions\"},{\"when\":\"searchAgentPlugins &&
-  !chatSetupDisabledInWorkspace &&
-  !chatSetupHidden\"},{\"when\":\"searchMcpServers &&
-  !chatSetupDisabledInWorkspace && !chatSetupHidden &&
-  !config.chat.disableAIFeatures\"}]},{\"id\":\"workbench.view.remote\",\"theme\
-  Icon\":{\"id\":\"remote-explorer-view-icon\"},\"name\":\"Remote
+  ensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[]}\
+  ,{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-vi\
+  ew-icon\"},\"name\":\"Remote
   Explorer\",\"isBuiltin\":true,\"views\":[{\"when\":\"true\"}]},{\"id\":\"work\
   bench.view.chat.sessions\",\"name\":\"Agent
   Sessions\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.test\",\"t\
@@ -522,10 +490,10 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.output","them
   !chatAccountPolicyGateActive || !chatAccountPolicyGateActive &&
   !chatSetupDisabledInWorkspace && !chatSetupHidden &&
   !config.chat.disableAIFeatures"},{"when":"managedSettingsUpdateRequired"}]}]'
-workbench.auxiliaryBar.size: "1071"
+workbench.auxiliaryBar.size: "601"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["csv",true],["javascript",true],["markdown",true],["lldb.disassembly",true],["cuda-cpp",true],["plaintext",true],["cpp",true],["ignore",true],["makefile",true],["c",true],["jsonc",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["csv",true],["javascript",true],["markdown",true],["lldb.disassembly",true],["ignore",true],["jsonc",true],["plaintext",true],["makefile",true],["cuda-cpp",true],["c",true],["yaml",true],["cpp",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"solutionExplorer","isHidden":false},{"id":"asm-code-lens.calcview-explorer","isHidden":false},{"id":"memory-view.memoryView","isHidden":false},{"id":"rtos-views.rtos","isHidden":false},{"id":"pokemonView","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"claudeVSCodeSidebar","isHidden":false},{"id":"claudeVSCodeSessionsList","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.newDefaultThemeNotification: "true"
@@ -538,9 +506,7 @@ workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false,"order":3},{"id":"terminal","isHidden":false,"order":0},{"id":"workbench.panel.repl.view","isHidden":true,"order":1},{"id":"workbench.panel.markers.view","isHidden":false,"order":2}]'
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":false,"visible":false,"order":5},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.jupyter-variables","themeIcon":{"id":"notebook"},"name":"Jupyter","isBuiltin":false,"views":[{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen"},{"when":"jupyter.hasNativeNotebookOrInteractiveWindowOpen
-  &&
-  jupyter:showTagsExplorer"}]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","isBuiltin":false},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false,"order":1},{"id":"terminal","isHidden":false,"order":0}]'
 workbench.panel.size: "570"
