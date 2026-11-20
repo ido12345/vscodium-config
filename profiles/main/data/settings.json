@@ -94,4 +94,12 @@
     "workbench.list.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "syncSettings.openOutputOnActivity": true,
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets",
+        "tasks",
+        "uiState",
+    ]
 }

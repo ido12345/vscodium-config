@@ -490,10 +490,10 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.output","them
   !chatAccountPolicyGateActive || !chatAccountPolicyGateActive &&
   !chatSetupDisabledInWorkspace && !chatSetupHidden &&
   !config.chat.disableAIFeatures"},{"when":"managedSettingsUpdateRequired"}]}]'
-workbench.auxiliaryBar.size: "601"
+workbench.auxiliaryBar.size: "1051"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["csv",true],["javascript",true],["markdown",true],["lldb.disassembly",true],["ignore",true],["jsonc",true],["plaintext",true],["makefile",true],["cuda-cpp",true],["c",true],["yaml",true],["cpp",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["csv",true],["javascript",true],["markdown",true],["lldb.disassembly",true],["ignore",true],["makefile",true],["yaml",true],["cuda-cpp",true],["cpp",true],["plaintext",true],["jsonc",true],["c",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":true},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"solutionExplorer","isHidden":false},{"id":"asm-code-lens.calcview-explorer","isHidden":false},{"id":"memory-view.memoryView","isHidden":false},{"id":"rtos-views.rtos","isHidden":false},{"id":"pokemonView","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"claudeVSCodeSidebarSecondary","isHidden":false},{"id":"claudeVSCodeSidebar","isHidden":false},{"id":"claudeVSCodeSessionsList","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.newDefaultThemeNotification: "true"
@@ -511,7 +511,7 @@ workbench.panel.placeholderPanels: '[{"id":"workbench.panel.testResults","themeI
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false,"order":1},{"id":"terminal","isHidden":false,"order":0}]'
 workbench.panel.size: "570"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":false},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false}]'
-workbench.sideBar.size: "455"
+workbench.sideBar.size: "249"
 workbench.statusbar.hidden: '["status.workspaceTrust.1707564432218","status.workspaceTrust.e7e91ef7e818dcee293e490bf360a6fd","GitHub.copilot.status","chat.statusBarEntry","status.host","status.scm.0","status.scm.1","status.problems","status.editor.indentation","status.editor.eol","status.languageStatus","status.notifications"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.chat.sessions.state.hidden: '[{"id":"workbench.view.chat.sessions.local","isHidden":false},{"id":"workbench.view.chat.sessions.gettingStarted","isHidden":false},{"id":"workbench.view.chat.sessions.copilot-cloud-agent","isHidden":false},{"id":"codex-placeholder","isHidden":false},{"id":"copilot-agents-placeholder","isHidden":false},{"id":"workbench.view.chat.sessions.copilotcli","isHidden":false}]'
